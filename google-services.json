@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "93627279438",
+    "firebase_url": "https://tourguide-7fa90.firebaseio.com",
+    "project_id": "tourguide-7fa90",
+    "storage_bucket": "tourguide-7fa90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93627279438:android:6a2d382ae221bd3078bb1f",
+        "android_client_info": {
+          "package_name": "com.example.tourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93627279438-livmgkl1ib7bmj7tmhdpb9cn1e7bjce2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourguide",
+            "certificate_hash": "0aa1998aededacd39b4af05cb3be261aa01265b8"
+          }
+        },
+        {
+          "client_id": "93627279438-i3uc6nu9f7rvvuite51ui2gbt4stk7r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVcozIUZI2Xx6n_mgjXFOYo5TwYvxJaJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93627279438-i3uc6nu9f7rvvuite51ui2gbt4stk7r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
